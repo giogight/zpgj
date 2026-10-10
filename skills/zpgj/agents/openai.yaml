@@ -1,0 +1,4 @@
+interface:
+  display_name: "zpgj"
+  short_description: "优先从已有访谈素材做策划与选题，写口播脚本、审稿并整理视频复用素材"
+  default_prompt: "使用 $zpgj，根据当前账号资料和现有素材完成我指定的策划、选题、脚本或审核任务。"
